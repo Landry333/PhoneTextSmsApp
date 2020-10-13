@@ -1,5 +1,4 @@
 language: android
-os: windows
 dist: trusty
 jdk:
   - openjdk8
